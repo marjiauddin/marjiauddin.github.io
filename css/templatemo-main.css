@@ -1100,10 +1100,17 @@ nav a:hover::before {
 
 	}
 	.third-content .ex-btn{
-		font-size: 10px;
+		font-size: 12px;
 		font-weight: bold;
 		padding-left: 0px;
 		padding-right: 0px;
+	}
+
+	.third-content .training-btn{
+		font-size: 12px;
+		font-weight: bold;
+		padding-left: 10px;
+		padding-right: 10px;
 	}
 
 
